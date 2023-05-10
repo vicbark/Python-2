@@ -1,4 +1,4 @@
-# find matching characters in sentences
+# find matching characters in sentences / naiti sovpadajuwie simvoli v dvuh prredlozenijah
 a=input("Enter the first sentence ")
 b=input("Enter the second sentence ")
 c="" # here we write the matching letters in sentences / kuda budem zapisivatj sovpodajuwie bukvi
